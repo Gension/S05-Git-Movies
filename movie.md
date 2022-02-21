@@ -8,9 +8,8 @@
 |Steak|En 2016, la mode et les critères de beauté ont beaucoup changé. Une nouvelle tendance fait des ravages chez les jeunes : le lifting du visage. Georges, un jeune diplômé récemment lifté, profite des vacances d'été pour s'intégrer aux "Chivers", une bande de caïds liftés à l'extrême. Blaise, un loser rejeté et ex ami d'enfance de Georges, aimerait lui aussi faire parti de la bande...|https://www.allocine.fr/film/fichefilm_gen_cfilm=110872.html|
 <<<<<<< HEAD
 
-|Rubber|Dans le désert californien, un pneu tueur en série et télépathe prend en chasse une très jolie jeune femme par laquelle il est mystérieusement attiré. La traquant de motel en motel, il sème la mort sur sa route, tuant animaux et humains.
-|How High|Deux lascars, Silas et Jamal, cultivent une variété de marijuana qui donne la possibilité à quiconque la consomme d'augmenter exponentiellement son Q.I. L'absorption régulière de cette drogue va leur permettre d'accéder à la prestigieuse université de Harvard.
-=======
+|Rubber|Dans le désert californien, un pneu tueur en série et télépathe prend en chasse une très jolie jeune femme par laquelle il est mystérieusement attiré. La traquant de motel en motel, il sème la mort sur sa route, tuant animaux et humains.https://www.allocine.fr/film/fichefilm_gen_cfilm=179625.html
+|How High|Deux lascars, Silas et Jamal, cultivent une variété de marijuana qui donne la possibilité à quiconque la consomme d'augmenter exponentiellement son Q.I. L'absorption régulière de cette drogue va leur permettre d'accéder à la prestigieuse université de Harvard.https://www.allocine.fr/film/fichefilm_gen_cfilm=29221.html
 |Infinity War|Alors que les Avengers et leurs alliés ont continué de protéger le monde face à des menaces bien trop grandes pour être combattues par un héros seul, un nouveau danger est venu de l'espace : Thanos. Despote craint dans tout l'univers, Thanos a pour objectif de recueillir les six Pierres d'Infinité|https://www.allocine.fr/film/fichefilm_gen_cfilm=218265.html|
 |Les anges gardiens|Un homme d'affaires sans scrupule et un pretre orgueilleux sont aux prises avec les triades de Hong Kong et surtout avec leurs anges gardiens qui tentent de les remettre dans le droit chemin...|https://www.allocine.fr/film/fichefilm_gen_cfilm=13115.html|
 >>>>>>> ac686eb198a574fc73862504917a6941994863f6
